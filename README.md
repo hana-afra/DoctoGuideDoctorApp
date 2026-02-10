@@ -1,7 +1,6 @@
 # doctor_app_docto_guide
 ## 🎥 Video Overview (click the picture to see the demo)
-
-[![Watch the video](https://github.com/hana-afra/DoctoGuideDoctorApp/blob/main/doctoguide pic.jpg)](https://drive.google.com/file/d/17mjNdhNYoJprNbMCIJKY5MY1-pJNMofy/view?usp=sharing)
+[![Watch the video](https://raw.githubusercontent.com/hana-afra/DoctoGuideDoctorApp/main/doctoguide%20pic.jpg)](https://drive.google.com/file/d/17mjNdhNYoJprNbMCIJKY5MY1-pJNMofy/view?usp=sharing)
 
 A new Flutter project.
 
